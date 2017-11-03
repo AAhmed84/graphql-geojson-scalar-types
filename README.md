@@ -1,5 +1,7 @@
 # graphql-geojson-scalar-types
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/enniel/graphql-geojson-scalar-types.svg)](https://greenkeeper.io/)
+
 GraphQL schema scalar types for GeoJSON. Based on [GeoJSON Validation](https://github.com/craveprogramminginc/GeoJSON-Validation).
 
 ## Installation
